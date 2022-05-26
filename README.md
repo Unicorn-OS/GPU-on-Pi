@@ -1,5 +1,5 @@
 # GPU-on-Pi
-[But can it run Crysis?](https://youtu.be/crnEygp4C6g)
+## [But can it run Crysis?](https://youtu.be/crnEygp4C6g)
 
 Apr 27, 2022  After TWO YEARS it finally works! Video output through multiple GPUs on the Raspberry Pi. Well... sorta. Check out what we have working in the video—and what's yet to be discovered.
 
@@ -44,3 +44,5 @@ Contents:
 08:05 - What about Windows?
 08:16 - And that RX 6700 XT?
 08:35 - To boldly go.
+
+## [I plugged the AMD Radeon RX 6700 XT into a Raspberry Pi](https://youtu.be/LO7Ip9VbOLY)
